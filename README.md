@@ -1,4 +1,4 @@
-# Project : FetchDessert*
+# Project : FetchDessert
 
 Submitted by: **Faye Alangi**
 
@@ -7,7 +7,7 @@ Submitted by: **Faye Alangi**
 
 ## Features
 
-The following functionality is implemented:
+The following functionalities is implemented:
 
 - Browse a list of desserts (name, image)
 - Select a dessert and see details on a new screen such as instructions, ingredients,and measurements.
